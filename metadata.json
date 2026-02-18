@@ -1,0 +1,8 @@
+{
+  "name": "Pipestack CRM",
+  "description": "A modern, high-fidelity sales pipeline CRM dashboard for freelancers and small agencies, featuring advanced data visualization and an AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
